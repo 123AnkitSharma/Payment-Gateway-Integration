@@ -1,7 +1,7 @@
 # Payment-Gateway-Integration - The Sparks Foundation 2021
 
 
-Payment Gateway Integration: check it out here --> https://arunkarthicknm.github.io/Payment-gateway-integration/
+Payment Gateway Integration: check it out here --> https://github.com/123AnkitSharma/Payment-Gateway-Integration.git
 
 This task was done under the Web Development and Designing Internship (GRIP) at the Sparks Foundation by Ankit Sharma
 
